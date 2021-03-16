@@ -1,0 +1,4 @@
+theme = "bigspring"
+themesDir = "themes"
+baseURL = ""
+publishDir = "public"
